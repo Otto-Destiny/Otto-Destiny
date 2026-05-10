@@ -7,7 +7,7 @@ Profile source of truth:
 -->
 
 <p align="center">
-  <a href="https://github.com/Otto-Destiny?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-57_public_+_1_private-0d1117?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Otto-Destiny?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-57_public_+_4_private-0d1117?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/destiny-otto"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-destiny--otto-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:Destinymanuchi.otto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-open_channel-238636?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>

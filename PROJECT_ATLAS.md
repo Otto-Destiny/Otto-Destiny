@@ -10,7 +10,7 @@ This atlas classifies the repositories visible from the `Otto-Destiny` GitHub ac
 | Energy Engineering and Scientific ML | 25 | drilling, reservoir, production, PVT, petrophysics, physics-guided ML |
 | Data Science, ML, and Analytics | 14 | forecasting, experimentation, neural networks, geospatial analytics |
 | Software Development and Product Apps | 8 | Flask, React, APIs, product interfaces, application foundations |
-| Private or Incubating | 1 | visible to the owner account, not ideal for public profile linking |
+| Private or Incubating | 4 | visible to the owner account, not ideal for public profile linking |
 
 ## AI Systems, Agents, and Generative AI
 
