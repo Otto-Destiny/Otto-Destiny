@@ -1,0 +1,77 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Destiny Otto profile banner</title>
+  <desc id="desc">A dark GitHub-style banner describing Destiny Otto as an AI systems engineer across scientific ML, agents, and engineering intelligence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#06130D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="150" y1="40" x2="1060" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="0.48" stop-color="#3FB950"/>
+      <stop offset="1" stop-color="#F2CC60"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.2 0 0 0 0 0.8 0 0 0 0 0.45 0 0 0 0.55 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .kicker { font: 700 18px Consolas, Monaco, monospace; letter-spacing: 2px; fill: #7D8590; }
+      .title { font: 800 76px Inter, Segoe UI, Arial, sans-serif; fill: #F0F6FC; }
+      .subtitle { font: 500 25px Inter, Segoe UI, Arial, sans-serif; fill: #C9D1D9; }
+      .chip { font: 700 16px Inter, Segoe UI, Arial, sans-serif; fill: #D0D7DE; }
+      .small { font: 600 14px Consolas, Monaco, monospace; fill: #7D8590; }
+      .code { font: 600 18px Consolas, Monaco, monospace; fill: #3FB950; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="0" fill="url(#bg)"/>
+  <path d="M0 304 C170 253 210 120 365 166 C504 207 522 298 686 247 C832 202 864 69 1029 88 C1118 98 1167 142 1200 178" stroke="url(#line)" stroke-width="2.4" opacity="0.45"/>
+  <path d="M0 78 C145 145 260 94 380 78 C560 54 633 179 774 168 C935 155 977 42 1200 60" stroke="#58A6FF" stroke-width="1.4" opacity="0.22"/>
+  <path d="M92 300 L234 236 L367 264 L511 172 L650 205 L788 112 L932 135 L1084 78" stroke="#3FB950" stroke-width="1.4" opacity="0.33"/>
+
+  <g opacity="0.22">
+    <path d="M80 40H1120M80 80H1120M80 120H1120M80 160H1120M80 200H1120M80 240H1120M80 280H1120M80 320H1120" stroke="#30363D"/>
+    <path d="M120 28V330M220 28V330M320 28V330M420 28V330M520 28V330M620 28V330M720 28V330M820 28V330M920 28V330M1020 28V330M1120 28V330" stroke="#30363D"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <circle cx="234" cy="236" r="5" fill="#3FB950"/>
+    <circle cx="511" cy="172" r="5" fill="#58A6FF"/>
+    <circle cx="788" cy="112" r="5" fill="#F2CC60"/>
+    <circle cx="1084" cy="78" r="5" fill="#3FB950"/>
+  </g>
+
+  <g transform="translate(74 74)">
+    <text class="kicker" x="0" y="0">OTTO-DESTINY / PROFILE SYSTEM</text>
+    <text class="title" x="0" y="82">Destiny Otto</text>
+    <text class="subtitle" x="4" y="124">AI systems engineer mapping noisy worlds into executable intelligence.</text>
+
+    <g transform="translate(4 158)">
+      <rect x="0" y="0" width="145" height="38" rx="19" fill="#161B22" stroke="#30363D"/>
+      <text class="chip" x="22" y="25">GraphRAG</text>
+      <rect x="160" y="0" width="117" height="38" rx="19" fill="#161B22" stroke="#30363D"/>
+      <text class="chip" x="182" y="25">Agents</text>
+      <rect x="292" y="0" width="183" height="38" rx="19" fill="#161B22" stroke="#30363D"/>
+      <text class="chip" x="314" y="25">Scientific ML</text>
+      <rect x="490" y="0" width="219" height="38" rx="19" fill="#161B22" stroke="#30363D"/>
+      <text class="chip" x="512" y="25">Petroleum Analytics</text>
+      <rect x="724" y="0" width="113" height="38" rx="19" fill="#161B22" stroke="#30363D"/>
+      <text class="chip" x="746" y="25">MLOps</text>
+    </g>
+
+    <text class="code" x="4" y="248">raw world -> structured signal -> predictive model -> decision system</text>
+  </g>
+
+  <g transform="translate(930 226)">
+    <rect x="0" y="0" width="206" height="72" rx="10" fill="#0D1117" stroke="#30363D"/>
+    <text class="small" x="22" y="28">repos scanned</text>
+    <text class="code" x="22" y="54">57 public + 1 private</text>
+  </g>
+</svg>
+

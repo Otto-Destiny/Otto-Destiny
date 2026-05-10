@@ -1,0 +1,353 @@
+profile:
+  username: Otto-Destiny
+  display_name: Destiny Otto
+  headline: AI and Machine Learning Engineer
+  location: Lagos, Nigeria
+  email: Destinymanuchi.otto@gmail.com
+  links:
+    github: https://github.com/Otto-Destiny
+    linkedin: https://www.linkedin.com/in/destiny-otto
+  positioning:
+    - AI systems engineer working across agents, GraphRAG, MLOps, and deep learning.
+    - Petroleum engineering background with a strong scientific-computation spine.
+    - Builds decision systems from noisy data, physics constraints, documents, and real workflows.
+
+frontpage:
+  banner: assets/profile-signal.svg
+  featured_only: true
+  include_complete_atlas_link: true
+  external_cards:
+    github_stats: true
+    shields: true
+
+domains:
+  ai_systems_agents:
+    label: AI Systems, Agents, and Applied Intelligence
+    thesis: LLMs, agents, recommenders, computer vision, and generative apps.
+  data_science_ml:
+    label: Data Science, ML, and Big Data
+    thesis: Forecasting, experimentation, neural networks, Spark, and analytics.
+  energy_engineering:
+    label: "Engineering Intelligence: Drilling, Reservoir, Production"
+    thesis: Petroleum analytics, optimization, reservoir surveillance, and field decision systems.
+  scientific_computation:
+    label: Scientific Computation and Subsurface Modeling
+    thesis: Numerical methods, PVT, phase behavior, petrophysics, and physics-guided ML.
+  software_products:
+    label: Software Products and Full-Stack Builds
+    thesis: APIs, web apps, product interfaces, CRUD systems, and deployment foundations.
+  private_incubating:
+    label: Private or Incubating
+    thesis: Repositories visible to the owner account but not useful as public profile links yet.
+
+featured_projects:
+  - repo: code-brief-engine-ai
+    domain: ai_systems_agents
+    summary: Repository summarization API with ranked file selection, context budgeting, and structured LLM output.
+  - repo: shell_ai_hackathon_2025
+    domain: data_science_ml
+    summary: Shell.ai 2025 fuel-blend optimization work combining tabular prediction and multi-objective search.
+  - repo: ml-driven-gaslift-optimization
+    domain: energy_engineering
+    summary: ML workflow for gas-lift optimization and production improvement.
+  - repo: physics-guided-hybrid-machine-learning-model-for-reservoir-surveillance
+    domain: energy_engineering
+    summary: Physics-guided machine learning for reservoir surveillance.
+  - repo: Non-Linear-Optimisation-Z-factor-Newton-Raphson
+    domain: scientific_computation
+    summary: Numerical optimization for gas Z-factor calculations.
+  - repo: Library-Management-App
+    domain: software_products
+    summary: Full application build for library operations and data management.
+
+repositories:
+  - name: rop_prediction_with_machine_learning
+    url: https://github.com/Otto-Destiny/rop_prediction_with_machine_learning
+    domain: energy_engineering
+    visibility: public
+    summary: Rate-of-penetration prediction for drilling performance analytics.
+  - name: drillstring-dynamics-and-analytics
+    url: https://github.com/Otto-Destiny/drillstring-dynamics-and-analytics
+    domain: energy_engineering
+    visibility: public
+    summary: Drillstring dynamics and engineering analytics.
+  - name: production-forecast-with-ANN
+    url: https://github.com/Otto-Destiny/production-forecast-with-ANN
+    domain: energy_engineering
+    visibility: public
+    summary: Artificial neural network workflow for production forecasting.
+  - name: 3d_well_trajectory_visualization
+    url: https://github.com/Otto-Destiny/3d_well_trajectory_visualization
+    domain: scientific_computation
+    visibility: public
+    summary: Spatial well-trajectory visualization.
+  - name: automated-dca-for-production-forecasting
+    url: https://github.com/Otto-Destiny/automated-dca-for-production-forecasting
+    domain: energy_engineering
+    visibility: public
+    summary: Decline-curve automation for production forecasting.
+  - name: ml-driven-gaslift-optimization
+    url: https://github.com/Otto-Destiny/ml-driven-gaslift-optimization
+    domain: energy_engineering
+    visibility: public
+    summary: Machine learning workflow for gas-lift optimization.
+  - name: dynamic-production-monitoring-dashboard
+    url: https://github.com/Otto-Destiny/dynamic-production-monitoring-dashboard
+    domain: energy_engineering
+    visibility: public
+    summary: Production monitoring dashboard.
+  - name: interpretable-ml-prediction-of-fluid-properties
+    url: https://github.com/Otto-Destiny/interpretable-ml-prediction-of-fluid-properties
+    domain: scientific_computation
+    visibility: public
+    summary: Interpretable ML for reservoir-fluid properties.
+  - name: real-time-drilling-parameters-analytics-and-visualization
+    url: https://github.com/Otto-Destiny/real-time-drilling-parameters-analytics-and-visualization
+    domain: energy_engineering
+    visibility: public
+    summary: Real-time drilling analytics and visualization.
+  - name: shell_ai_hackathon_2025
+    url: https://github.com/Otto-Destiny/shell_ai_hackathon_2025
+    domain: data_science_ml
+    visibility: public
+    summary: AI competition project combining tabular prediction and optimization.
+  - name: medigan-ai-studio
+    url: https://github.com/Otto-Destiny/medigan-ai-studio
+    domain: ai_systems_agents
+    visibility: public
+    summary: Medical and generative AI studio concept.
+  - name: faceforge-AI
+    url: https://github.com/Otto-Destiny/faceforge-AI
+    domain: ai_systems_agents
+    visibility: public
+    summary: Computer vision and generative image workflow.
+  - name: the-two-towers
+    url: https://github.com/Otto-Destiny/the-two-towers
+    domain: software_products
+    visibility: public
+    summary: Software, game, or application experiment.
+  - name: fluid-loss-prediction-with-machine-learning
+    url: https://github.com/Otto-Destiny/fluid-loss-prediction-with-machine-learning
+    domain: energy_engineering
+    visibility: public
+    summary: ML workflow for drilling-fluid loss prediction.
+  - name: Customer_Churn_prediction_End_to_End_Project
+    url: https://github.com/Otto-Destiny/Customer_Churn_prediction_End_to_End_Project
+    domain: data_science_ml
+    visibility: public
+    summary: End-to-end customer churn ML workflow.
+  - name: meme-generator-with-stable-diffusion
+    url: https://github.com/Otto-Destiny/meme-generator-with-stable-diffusion
+    domain: ai_systems_agents
+    visibility: public
+    summary: Stable Diffusion powered image-generation app.
+  - name: Library-Management-App
+    url: https://github.com/Otto-Destiny/Library-Management-App
+    domain: software_products
+    visibility: public
+    summary: Library management application.
+  - name: production-trend-analytics
+    url: https://github.com/Otto-Destiny/production-trend-analytics
+    domain: energy_engineering
+    visibility: public
+    summary: Production trend analysis and field-performance exploration.
+  - name: A-B-Testing-for-Enrollment-Optimization-in-Distance-Learning-Program
+    url: https://github.com/Otto-Destiny/A-B-Testing-for-Enrollment-Optimization-in-Distance-Learning-Program
+    domain: data_science_ml
+    visibility: public
+    summary: A/B testing case study for enrollment optimization.
+  - name: Predicting-Apartment-Prices-with-Linear-Regression-for-Buenos-Aires
+    url: https://github.com/Otto-Destiny/Predicting-Apartment-Prices-with-Linear-Regression-for-Buenos-Aires
+    domain: data_science_ml
+    visibility: public
+    summary: Linear regression for apartment pricing.
+  - name: Feed-Forward-and-Back-propagating-neural-networks
+    url: https://github.com/Otto-Destiny/Feed-Forward-and-Back-propagating-neural-networks
+    domain: data_science_ml
+    visibility: public
+    summary: Neural-network fundamentals project.
+  - name: data_driven_waterflood_performance_optimization
+    url: https://github.com/Otto-Destiny/data_driven_waterflood_performance_optimization
+    domain: energy_engineering
+    visibility: public
+    summary: Waterflood performance analytics and optimization.
+  - name: A-B-testing-platform
+    url: https://github.com/Otto-Destiny/A-B-testing-platform
+    domain: data_science_ml
+    visibility: public
+    summary: Experimentation platform project.
+  - name: reservoir-fluid-phase-envelopes
+    url: https://github.com/Otto-Destiny/reservoir-fluid-phase-envelopes
+    domain: scientific_computation
+    visibility: public
+    summary: Phase-envelope modeling for reservoir fluids.
+  - name: data-driven-reserve-evaluation-workflows-part-1
+    url: https://github.com/Otto-Destiny/data-driven-reserve-evaluation-workflows-part-1
+    domain: energy_engineering
+    visibility: public
+    summary: Reserve evaluation workflows with data-driven methods.
+  - name: todo_app-with-flask-and-sqlalchemy
+    url: https://github.com/Otto-Destiny/todo_app-with-flask-and-sqlalchemy
+    domain: software_products
+    visibility: public
+    summary: Flask and SQLAlchemy application foundation.
+  - name: drilling_analytics_quiz
+    url: https://github.com/Otto-Destiny/drilling_analytics_quiz
+    domain: energy_engineering
+    visibility: public
+    summary: Drilling analytics learning or quiz interface.
+  - name: bigdata_and_ML_with_Apache_Spark
+    url: https://github.com/Otto-Destiny/bigdata_and_ML_with_Apache_Spark
+    domain: data_science_ml
+    visibility: public
+    summary: Big data and ML with Apache Spark.
+  - name: genetic-programming-and-neural-network-prediction-of-bubble-point-pressure
+    url: https://github.com/Otto-Destiny/genetic-programming-and-neural-network-prediction-of-bubble-point-pressure
+    domain: scientific_computation
+    visibility: public
+    summary: Bubble-point pressure prediction with symbolic and neural methods.
+  - name: multipanel-time-series-visualization-drilling-parameters
+    url: https://github.com/Otto-Destiny/multipanel-time-series-visualization-drilling-parameters
+    domain: energy_engineering
+    visibility: public
+    summary: Multi-panel drilling time-series visualization.
+  - name: well-performance-segmentation
+    url: https://github.com/Otto-Destiny/well-performance-segmentation
+    domain: energy_engineering
+    visibility: public
+    summary: Segmentation of well performance behavior.
+  - name: physics-guided-hybrid-machine-learning-model-for-reservoir-surveillance
+    url: https://github.com/Otto-Destiny/physics-guided-hybrid-machine-learning-model-for-reservoir-surveillance
+    domain: energy_engineering
+    visibility: public
+    summary: Physics-guided ML for reservoir surveillance.
+  - name: python-in-reservoir-analytics-part-1
+    url: https://github.com/Otto-Destiny/python-in-reservoir-analytics-part-1
+    domain: energy_engineering
+    visibility: public
+    summary: Reservoir analytics learning and workflow series.
+  - name: Volatility-Forecasting-With-GARCH-Models-In-FrankFurt
+    url: https://github.com/Otto-Destiny/Volatility-Forecasting-With-GARCH-Models-In-FrankFurt
+    domain: data_science_ml
+    visibility: public
+    summary: GARCH volatility forecasting.
+  - name: automated_wildlife_classification_with_CNNs
+    url: https://github.com/Otto-Destiny/automated_wildlife_classification_with_CNNs
+    domain: ai_systems_agents
+    visibility: public
+    summary: CNN-based image classification project.
+  - name: creator-recommender-system
+    url: https://github.com/Otto-Destiny/creator-recommender-system
+    domain: ai_systems_agents
+    visibility: public
+    summary: Recommender-system space for creator and user discovery.
+  - name: stagemate-app
+    url: https://github.com/Otto-Destiny/stagemate-app
+    domain: software_products
+    visibility: public
+    summary: Product application project space.
+  - name: Multilayer-Perceptrons
+    url: https://github.com/Otto-Destiny/Multilayer-Perceptrons
+    domain: data_science_ml
+    visibility: public
+    summary: MLP fundamentals project.
+  - name: healthcare-report-builder-agent
+    url: https://github.com/Otto-Destiny/healthcare-report-builder-agent
+    domain: ai_systems_agents
+    visibility: public
+    summary: Agentic report-building workflow.
+  - name: Neural-Network-Prediction-of-Bike-Sharing-Demand
+    url: https://github.com/Otto-Destiny/Neural-Network-Prediction-of-Bike-Sharing-Demand
+    domain: data_science_ml
+    visibility: public
+    summary: Neural-network demand prediction project.
+  - name: predicting_downhole_motor_failure_with_machine_learning
+    url: https://github.com/Otto-Destiny/predicting_downhole_motor_failure_with_machine_learning
+    domain: energy_engineering
+    visibility: public
+    summary: Predictive maintenance framing for downhole equipment.
+  - name: Techo-trivia-api-React-and-Flask
+    url: https://github.com/Otto-Destiny/Techo-trivia-api-React-and-Flask
+    domain: software_products
+    visibility: public
+    summary: React and Flask API/product project.
+  - name: python-in-reservoir-analytics-part-2
+    url: https://github.com/Otto-Destiny/python-in-reservoir-analytics-part-2
+    domain: energy_engineering
+    visibility: public
+    summary: Reservoir analytics learning and workflow series continuation.
+  - name: Sentiment-Analysis-for-movies-reviews-with-Neural-Networks
+    url: https://github.com/Otto-Destiny/Sentiment-Analysis-for-movies-reviews-with-Neural-Networks
+    domain: ai_systems_agents
+    visibility: public
+    summary: Neural-network NLP classification project.
+  - name: us-businesses-export-analytics-and-machine-learning
+    url: https://github.com/Otto-Destiny/us-businesses-export-analytics-and-machine-learning
+    domain: data_science_ml
+    visibility: public
+    summary: Export/business analytics and ML.
+  - name: FLXG-Petrophysical-Analytics
+    url: https://github.com/Otto-Destiny/FLXG-Petrophysical-Analytics
+    domain: scientific_computation
+    visibility: public
+    summary: Petrophysical analytics and log interpretation workflows.
+  - name: Housing-Price-Analytics-for-Br
+    url: https://github.com/Otto-Destiny/Housing-Price-Analytics-for-Br
+    domain: data_science_ml
+    visibility: public
+    summary: Housing price analytics for Brazil.
+  - name: Final_Pipeline
+    url: https://github.com/Otto-Destiny/Final_Pipeline
+    domain: software_products
+    visibility: public
+    summary: Pipeline skeleton or deployment workflow space.
+  - name: God-Level-Data-Science-ML-Full-Stack
+    url: https://github.com/Otto-Destiny/God-Level-Data-Science-ML-Full-Stack
+    domain: data_science_ml
+    visibility: public
+    summary: Broad full-stack data science and ML learning repository.
+  - name: ARIMA-TimeSeries-Forecasting-Dar-Es-Salaam
+    url: https://github.com/Otto-Destiny/ARIMA-TimeSeries-Forecasting-Dar-Es-Salaam
+    domain: data_science_ml
+    visibility: public
+    summary: ARIMA time-series forecasting.
+  - name: real_estate_geospatial_analytics_for_brazil
+    url: https://github.com/Otto-Destiny/real_estate_geospatial_analytics_for_brazil
+    domain: data_science_ml
+    visibility: public
+    summary: Geospatial real-estate analytics.
+  - name: PVT-Simulation-Tkinter-GUI-App
+    url: https://github.com/Otto-Destiny/PVT-Simulation-Tkinter-GUI-App
+    domain: scientific_computation
+    visibility: public
+    summary: PVT simulation GUI and petroleum-fluid calculations.
+  - name: hugging_face_llm
+    url: https://github.com/Otto-Destiny/hugging_face_llm
+    domain: ai_systems_agents
+    visibility: public
+    summary: LLM learning and Hugging Face experimentation space.
+  - name: Non-Linear-Optimisation-Z-factor-Newton-Raphson
+    url: https://github.com/Otto-Destiny/Non-Linear-Optimisation-Z-factor-Newton-Raphson
+    domain: scientific_computation
+    visibility: public
+    summary: Numerical optimization for gas Z-factor calculations.
+  - name: fullstack_coffee_shop_app
+    url: https://github.com/Otto-Destiny/fullstack_coffee_shop_app
+    domain: software_products
+    visibility: public
+    summary: Full-stack coffee shop application.
+  - name: resumepdf
+    url: https://github.com/Otto-Destiny/resumepdf
+    domain: software_products
+    visibility: public
+    summary: Resume and PDF publishing utility.
+  - name: code-brief-engine-ai
+    url: https://github.com/Otto-Destiny/code-brief-engine-ai
+    domain: ai_systems_agents
+    visibility: public
+    summary: Repository summarization API with ranked file selection, context budgeting, and structured LLM output.
+  - name: wellframe
+    url: null
+    domain: private_incubating
+    visibility: private
+    summary: Private working repository visible to the owner account; excluded from public profile links.
